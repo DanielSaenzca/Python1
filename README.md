@@ -1,6 +1,6 @@
 # Primer programa python
 
-![Logo](imagenes/logodepython1.png)
+![Logo](imagenes\logodepython1.png)
 
 **Requisitos**
 - Python 3.6
