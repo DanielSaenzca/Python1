@@ -6,6 +6,6 @@
 - Python 3.6
 - Computadora
 - [Visual Studio Code](https://code.visualstudio.com/)
-- 10 min
+- 5 min
 --------------------------------------------
 
